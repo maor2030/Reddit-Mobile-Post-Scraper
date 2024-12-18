@@ -15,8 +15,8 @@ Automatically saves data to a JSON file
 No login required
 Minimal dependencies (only requires 'requests' library)
 
-#Quick Start
-# Just modify the subreddit name in main()
+# Quick Start
+- Just modify the subreddit name in main()
 subreddit = "Steam"  # Change this to any subreddit you want
 target_count = 100   # Number of posts to collect
 
